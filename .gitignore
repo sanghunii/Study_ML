@@ -5,3 +5,8 @@
 
 #Specific file/folder
 doodle/*
+
+
+
+#Virtual Environment
+.venv/*
